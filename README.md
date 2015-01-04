@@ -1,9 +1,9 @@
 deliberate-practice-at-work
 ===========================
 
-| **Work Stage**    | Poor Performers | Average Performers | Excellent Performers |
-| -------------       | -------------   | -----------------  | -------------------  |
-| **Pre-work**            | Content Cell    | cccccccccccccccc   | ccccccccccccccccccc  |
-| **During Work**         | Content Cell    | cccccccccccccccc   | ccccccccccccccccccc  |
-| **Post-work**      | CCCCCCCCCCCC    | cccccccccccccccc   | ccccccccccccccccccc  |
-| **Result**              | CCCCCCCCCCCC    | cccccccccccccccc   | ccccccccccccccccccc  |
+| **Work Stage**          | Poor Performers | Average Performers | Excellent Performers |
+| -------------           | -------------   | -----------------  | -------------------  |
+| **Pre-work**            | No thought, stumbling around in the dark    | Sets goals, but only high level, *outcome* goals   | Set ery specific, tactical *execution* goals  |
+| **During Work**         | There...    | Focuesd on the outcome only   | ccccccccccccccccccc  |
+| **Post-work**           | Stumble on... | High level assessment; Tendency to blame circumstances out of their control  |
+| **Result**              | Continued Poor performance    | cccccccccccccccc   | ccccccccccccccccccc  |
